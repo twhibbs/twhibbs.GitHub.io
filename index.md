@@ -37,3 +37,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 My first update to my website
+
+Issue:
+![flyerslogo](https://cloud.githubusercontent.com/assets/28564919/25853872/29718526-349c-11e7-8aa2-5bb760149de6.png)
